@@ -1,0 +1,8 @@
+. (Join-Path -Path $PSScriptRoot -ChildPath 'DotNetUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'XSLTUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'PathUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'EncodeUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'PSUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'WindowsUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'SWUtils.ps1')
+. (Join-Path -Path $PSScriptRoot -ChildPath 'TextUtils.ps1')
